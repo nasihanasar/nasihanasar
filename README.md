@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🛠️ Tools & Technologies
 
-<!--
-**nasihanasar/nasihanasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- SCSS
+- Bootstrap
+- Angular Material
 
-Here are some ideas to get you started:
+### Mobile App
+- Ionic
+- Capacitor
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend / API
+- REST API Integration
+- RxJS
+
+### Database / Storage
+- Local Storage
+
+### Version Control / Deployment
+- Git & GitHub
